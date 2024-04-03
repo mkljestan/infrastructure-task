@@ -1,0 +1,6 @@
+devops-t1-t2-b34668f5d49f.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.terraform
+.DS_Store
